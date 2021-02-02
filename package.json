@@ -1,0 +1,38 @@
+{
+  "name": "HWWK10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^6.5.2",
+    "path": "^0.12.7",
+    "prompt": "^1.0.0",
+    "util": "^0.12.1",
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITLenardL/HWWK10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ITLenardL/HWWK10/issues"
+  },
+  "homepage": "https://github.com/ITLenardL/HWWK10#readme"
+}
+
+
